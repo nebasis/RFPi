@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0c782e15-0764-4eb8-a966-1f3125c3c492")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 87.63 40.64)
+		(size 42.545 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0cdfd7b7-77b8-4b43-a134-3fe419a74a25")
+		(property "Sheetname" "Power"
+			(at 87.63 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 87.63 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rpi_Custom"
+				(path "/0c782e15-0764-4eb8-a966-1f3125c3c492"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 40.005)
+		(size 42.545 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "292883f5-8dca-440e-aa96-21b6f26acdd4")
+		(property "Sheetname" "MCU"
+			(at 189.23 39.2934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 189.23 67.2596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rpi_Custom"
+				(path "/0c782e15-0764-4eb8-a966-1f3125c3c492"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 77.47)
+		(size 42.545 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ff44b7f8-fdbc-411b-b9ba-841f2d7d9b21")
+		(property "Sheetname" "RF"
+			(at 187.96 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RF.kicad_sch"
+			(at 187.96 104.7246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Rpi_Custom"
+				(path "/0c782e15-0764-4eb8-a966-1f3125c3c492"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
